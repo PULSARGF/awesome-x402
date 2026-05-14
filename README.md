@@ -422,6 +422,8 @@ x402-native GPU inference APIs that let agents pay autonomously for compute.
 
 ## 🔨 Tools & Utilities
 
+- [Cinderwright Discovery Hub](https://api.ideafactorylab.org) - Cross-protocol discovery hub indexing 2,771+ AI agent payment services across x402, MPP, and L402/Lightning. Free keyword search (`/discover?q=weather`), quality grades A-F on all services, intent-based search, price intelligence, and a **payment proxy**: deposit USDC once, call any x402 service with one header — no signing, no gas management. MCP server installable in Claude Desktop. ([Proxy Docs](https://api.ideafactorylab.org/proxy) | [MCP](https://api.ideafactorylab.org/.well-known/mcp.json) | [GitHub](https://github.com/cinderwright-ai/cinderwright-api))
+
 Development tools and utilities for x402.
 
 ### CLI Tools
