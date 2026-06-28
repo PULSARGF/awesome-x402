@@ -949,6 +949,7 @@ Projects building with or extending x402.
 - [Jeeves-DeepSeek](https://jeeves.originaltorrent.com) — Pay-per-call DeepSeek chat completions API via x402 micropayments on Base mainnet. No signup or API keys required. OpenAI-compatible endpoint at /v1/chat/completions. $0.01 USDC per request on Base.
 - [Forge Cascade](https://forgecascade.org/) - Experimental institutional memory and knowledge graph platform exposing x402 discovery metadata, payment OpenAPI docs, MCP, and A2A surfaces for Base USDC agent-commerce workflows. ([x402 discovery](https://forgecascade.org/.well-known/x402) | [Payment OpenAPI](https://forgecascade.org/openapi.payments.json) | [Agent card](https://forgecascade.org/.well-known/agent-card.json))
 - [Listing Roast x402](https://listing-roast-x402-service-production.up.railway.app) - Paid x402 API for builders launching agent-facing services: $0.001 listing scores, $0.01 full roasts, and a $0.01 Bazaar discovery audit for stale pricing, direct 402 metadata, and search visibility on Base USDC.
+- [Ren API](https://ren-api-production.up.railway.app) - Seed-oil-free restaurant intelligence for AI agents with restaurant lookup and dish-swap endpoints. Data sourced from live restaurant calls; $0.01 USDC per call on Base. ([Discovery](https://ren-api-production.up.railway.app/.well-known/x402.json) | [llms.txt](https://ren-api-production.up.railway.app/llms.txt))
 
 ### Charity & Social Impact
 
